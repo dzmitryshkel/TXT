@@ -1,0 +1,1 @@
+Jira, Postman, Mob and web testing, writing test documentations, python
